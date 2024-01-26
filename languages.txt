@@ -1,0 +1,7 @@
+what is your favorite programming language? Why? Partner: Conor Edwards (conore)
+His favorite programming langauge is Dart, because it incorperates strict typing and is similar to java. 
+My favorite langauge is python because it isn't as verbose as most languages.
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+No, he is most experienced with java because of using it in school.
+Me: I am also most proficient with java becasue of school.
